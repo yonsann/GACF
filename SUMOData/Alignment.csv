@@ -1,0 +1,6 @@
+,RoadSectionOrder,AlignmentType,Length,CurvatureConstant,DirectionMark
+0,1,C,150,0.0025,-1
+1,2,B,100,0.0025,in
+2,3,A,300,0,-1
+3,4,B,100,0.0025,out
+4,5,C,150,0.0025,-1
