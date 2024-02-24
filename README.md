@@ -1,3 +1,3 @@
-##GACF code##
+GACF
 
 
